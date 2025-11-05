@@ -2,7 +2,8 @@
 
 <!-- <img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=rontho14'/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rontho14)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rontho14&layout=compact)
+
 
 <!---
 rontho14/rontho14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
