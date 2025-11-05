@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @rontho14
-- 👀 I’m interested in games and fun stuff
-- 🌱 I’m currently learning how to code
-- 📫 How to reach me ...
+# rontho14
+
+<img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=rontho14'/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rontho14)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rontho14/rontho14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
