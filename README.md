@@ -1,6 +1,6 @@
 # rontho14
 
-<img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=rontho14'/>
+<!-- <img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=rontho14'/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rontho14)](https://github.com/anuraghazra/github-readme-stats)
 
